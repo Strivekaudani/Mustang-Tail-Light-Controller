@@ -1,0 +1,220 @@
+s1(14Sep2023:01:15:32):  xmverilog ../../source/tail_light_control.v -compile 
+s2(14Sep2023:01:15:32):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s3(14Sep2023:17:18:30):  xmverilog ../../source/tail_light_control.v -compile 
+s4(14Sep2023:17:18:31):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s5(14Sep2023:17:49:52):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s6(14Sep2023:18:09:49):  xmverilog ../../source/tail_light_control.v -compile 
+s7(14Sep2023:18:09:49):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s8(14Sep2023:18:09:55):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s9(14Sep2023:18:21:37):  xmverilog ../../source/tail_light_control.v -compile 
+s10(14Sep2023:18:21:38):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s11(14Sep2023:18:22:33):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s12(14Sep2023:22:21:19):  xmverilog ../../source/tail_light_control.v -compile 
+s13(14Sep2023:22:21:19):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s14(14Sep2023:22:22:24):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s15(14Sep2023:23:06:55):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s16(14Sep2023:23:07:17):  xmverilog ../../source/tail_light_control.v -compile 
+s17(14Sep2023:23:07:18):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s18(14Sep2023:23:07:21):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s19(14Sep2023:23:15:45):  xmverilog ../../source/tail_light_control.v -compile 
+s20(14Sep2023:23:15:46):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s21(14Sep2023:23:15:54):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s22(14Sep2023:23:21:03):  xmverilog ../../source/tail_light_control.v -compile 
+s23(14Sep2023:23:21:03):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s24(14Sep2023:23:21:06):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s25(14Sep2023:23:31:04):  xmverilog ../../source/tail_light_control.v -compile 
+s26(14Sep2023:23:31:04):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s27(14Sep2023:23:31:09):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s28(04Oct2023:21:03:48):  xmverilog ../../source/tail_light_control.v -compile 
+s29(04Oct2023:21:03:49):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s30(04Oct2023:21:04:25):  xmverilog ../testbench/-tail_light_control_tb.v +access+r +gui 
+s31(04Oct2023:21:07:11):  xmverilog ../testbench/-tail_light_control_tb.v +access+r +gui 
+s32(04Oct2023:21:11:22):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s33(04Oct2023:21:33:03):  xmverilog ../../source/tail_light_control.v -compile 
+s34(04Oct2023:21:33:04):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s35(04Oct2023:21:33:29):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s36(05Oct2023:15:17:41):  xmverilog ../../source/tail_light_control.v -compile 
+s37(05Oct2023:15:17:42):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s38(05Oct2023:15:20:23):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s39(05Oct2023:15:27:06):  xmverilog ../../source/tail_light_control.v -compile 
+s40(05Oct2023:15:27:06):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s41(05Oct2023:15:27:28):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s42(05Oct2023:15:40:22):  xmverilog ../../source/tail_light_control.v -compile 
+s43(05Oct2023:15:40:22):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s44(05Oct2023:15:40:41):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s45(05Oct2023:15:46:17):  xmverilog ../../source/tail_light_control.v -compile 
+s46(05Oct2023:15:46:17):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s47(05Oct2023:15:46:41):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s48(05Oct2023:15:48:49):  xmverilog ../../source/tail_light_control.v -compile 
+s49(05Oct2023:15:48:49):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s50(05Oct2023:15:48:59):  xmverilog ../../source/tail_light_control.v -compile 
+s51(05Oct2023:15:49:00):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s52(05Oct2023:15:49:06):  xmverilog ../../source/tail_light_control.v -compile 
+s53(05Oct2023:15:49:07):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s54(05Oct2023:15:49:16):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s55(05Oct2023:15:56:02):  xmverilog ../../source/tail_light_control.v -compile 
+s56(05Oct2023:15:56:03):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s57(05Oct2023:15:56:19):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s58(05Oct2023:16:07:10):  xmverilog ../../source/tail_light_control.v -compile 
+s59(05Oct2023:16:07:11):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s60(05Oct2023:16:07:35):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s61(05Oct2023:16:11:44):  xmverilog ../../source/tail_light_control.v -compile 
+s62(05Oct2023:16:11:45):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s63(05Oct2023:16:11:47):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s64(05Oct2023:16:13:48):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s65(05Oct2023:16:14:06):  xmverilog ../../source/tail_light_control.v -compile 
+s66(05Oct2023:16:14:07):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s67(05Oct2023:16:14:12):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s68(05Oct2023:16:16:56):  xmverilog ../../source/tail_light_control.v -compile 
+s69(05Oct2023:16:16:57):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s70(05Oct2023:16:16:59):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s71(05Oct2023:16:23:32):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s72(05Oct2023:16:52:05):  xmverilog ../../source/tail_light_control.v -compile 
+s73(05Oct2023:16:52:05):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s74(05Oct2023:16:52:32):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s75(05Oct2023:17:17:02):  xmverilog ../../source/tail_light_control.v -compile 
+s76(05Oct2023:17:17:02):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s77(05Oct2023:17:18:56):  xmverilog ../../source/tail_light_control.v -compile 
+s78(05Oct2023:17:18:56):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s79(05Oct2023:17:20:28):  xmverilog ../../source/tail_light_control.v -compile 
+s80(05Oct2023:17:20:29):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s81(05Oct2023:17:26:22):  xmverilog ../../source/tail_light_control.v -compile 
+s82(05Oct2023:17:26:23):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s83(05Oct2023:17:26:34):  xmverilog ../../source/tail_light_control.v -compile 
+s84(05Oct2023:17:26:34):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s85(05Oct2023:17:26:44):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s86(05Oct2023:17:37:29):  xmverilog ../../source/tail_light_control.v -compile 
+s87(05Oct2023:17:37:30):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s88(05Oct2023:17:37:50):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s89(05Oct2023:20:42:19):  xmverilog ../../source/tail_light_control.v -compile 
+s90(05Oct2023:20:42:20):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s91(05Oct2023:20:42:47):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s92(05Oct2023:20:48:12):  xmverilog ../../source/tail_light_control.v -compile 
+s93(05Oct2023:20:48:13):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s94(05Oct2023:20:48:30):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s95(05Oct2023:20:51:40):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s96(05Oct2023:20:55:24):  xmverilog ../../source/tail_light_control.v -compile 
+s97(05Oct2023:20:55:25):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s98(05Oct2023:20:55:28):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s99(05Oct2023:20:57:14):  xmverilog ../../source/tail_light_control.v -compile 
+s100(05Oct2023:20:57:14):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s101(05Oct2023:20:57:17):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s102(05Oct2023:21:06:05):  xmverilog ../../source/tail_light_control.v -compile 
+s103(05Oct2023:21:06:06):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s104(05Oct2023:21:06:25):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s105(05Oct2023:21:13:57):  xmverilog ../../source/tail_light_control.v -compile 
+s106(05Oct2023:21:13:57):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s107(05Oct2023:21:14:17):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s108(05Oct2023:21:16:44):  xmverilog ../../source/tail_light_control.v -compile 
+s109(05Oct2023:21:16:45):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s110(05Oct2023:21:16:47):  xmverilog ../../source/tail_light_control.v -compile 
+s111(05Oct2023:21:16:48):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s112(05Oct2023:21:16:53):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s113(05Oct2023:21:21:05):  xmverilog ../../source/tail_light_control.v -compile 
+s114(05Oct2023:21:21:06):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s115(05Oct2023:21:21:23):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s116(05Oct2023:21:22:55):  xmverilog ../../source/tail_light_control.v -compile 
+s117(05Oct2023:21:22:56):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s118(05Oct2023:21:22:58):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s119(05Oct2023:21:24:14):  xmverilog ../../source/tail_light_control.v -compile 
+s120(05Oct2023:21:24:14):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s121(05Oct2023:21:24:17):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s122(05Oct2023:21:29:41):  xmverilog ../../source/tail_light_control.v -compile 
+s123(05Oct2023:21:29:42):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s124(05Oct2023:21:29:44):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s125(05Oct2023:21:31:32):  xmverilog ../../source/tail_light_control.v -compile 
+s126(05Oct2023:21:31:33):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s127(05Oct2023:21:31:36):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s128(05Oct2023:21:32:43):  xmverilog ../../source/tail_light_control.v -compile 
+s129(05Oct2023:21:32:43):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s130(05Oct2023:21:32:46):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s131(05Oct2023:21:34:09):  xmverilog ../../source/tail_light_control.v -compile 
+s132(05Oct2023:21:34:10):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s133(05Oct2023:21:34:13):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s134(05Oct2023:21:37:28):  xmverilog ../../source/tail_light_control.v -compile 
+s135(05Oct2023:21:37:29):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s136(05Oct2023:21:37:45):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s137(05Oct2023:21:39:47):  xmverilog ../../source/tail_light_control.v -compile 
+s138(05Oct2023:21:39:47):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s139(05Oct2023:21:39:50):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s140(05Oct2023:21:42:34):  xmverilog ../../source/tail_light_control.v -compile 
+s141(05Oct2023:21:42:34):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s142(05Oct2023:21:42:37):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s143(05Oct2023:21:45:15):  xmverilog ../../source/tail_light_control.v -compile 
+s144(05Oct2023:21:45:15):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s145(05Oct2023:21:45:20):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s146(05Oct2023:21:47:41):  xmverilog ../../source/tail_light_control.v -compile 
+s147(05Oct2023:21:47:42):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s148(05Oct2023:21:47:46):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s149(05Oct2023:21:49:07):  xmverilog ../../source/tail_light_control.v -compile 
+s150(05Oct2023:21:49:07):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s151(05Oct2023:21:49:10):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s152(05Oct2023:21:52:24):  xmverilog ../../source/tail_light_control.v -compile 
+s153(05Oct2023:21:52:25):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s154(05Oct2023:21:52:29):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s155(05Oct2023:21:55:48):  xmverilog ../../source/tail_light_control.v -compile 
+s156(05Oct2023:21:55:48):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s157(05Oct2023:21:55:54):  xmverilog ../../source/tail_light_control.v -compile 
+s158(05Oct2023:21:55:55):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s159(05Oct2023:21:55:58):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s160(05Oct2023:21:57:05):  xmverilog ../../source/tail_light_control.v -compile 
+s161(05Oct2023:21:57:06):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s162(05Oct2023:21:57:08):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s163(05Oct2023:21:59:22):  xmverilog ../../source/tail_light_control.v -compile 
+s164(05Oct2023:21:59:23):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s165(05Oct2023:21:59:25):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s166(05Oct2023:22:02:09):  xmverilog ../../source/tail_light_control.v -compile 
+s167(05Oct2023:22:02:09):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s168(05Oct2023:22:02:12):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s169(05Oct2023:22:08:52):  xmverilog ../../source/tail_light_control.v -compile 
+s170(05Oct2023:22:08:53):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s171(05Oct2023:22:09:58):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s172(05Oct2023:22:13:40):  xmverilog ../../source/tail_light_control.v -compile 
+s173(05Oct2023:22:13:41):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s174(05Oct2023:22:13:44):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s175(05Oct2023:22:16:18):  xmverilog ../../source/tail_light_control.v -compile 
+s176(05Oct2023:22:16:19):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s177(05Oct2023:22:16:21):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s178(05Oct2023:22:18:00):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s179(05Oct2023:22:19:59):  xmverilog ../../source/tail_light_control.v -compile 
+s180(05Oct2023:22:20:00):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s181(05Oct2023:22:20:02):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s182(05Oct2023:22:23:04):  xmverilog ../../source/tail_light_control.v -compile 
+s183(05Oct2023:22:23:05):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s184(05Oct2023:22:23:07):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s185(05Oct2023:22:24:56):  xmverilog ../../source/tail_light_control.v -compile 
+s186(05Oct2023:22:24:56):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s187(05Oct2023:22:24:59):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s188(05Oct2023:22:27:36):  xmverilog ../../source/tail_light_control.v -compile 
+s189(05Oct2023:22:27:36):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s190(05Oct2023:22:27:39):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s191(05Oct2023:22:30:23):  xmverilog ../../source/tail_light_control.v -compile 
+s192(05Oct2023:22:30:23):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s193(05Oct2023:22:30:26):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s194(05Oct2023:22:37:13):  xmverilog ../../source/tail_light_control.v -compile 
+s195(05Oct2023:22:37:13):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s196(05Oct2023:22:37:20):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s197(05Oct2023:22:45:47):  xmverilog ../../source/tail_light_control.v -compile 
+s198(05Oct2023:22:45:47):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s199(05Oct2023:22:45:51):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s200(05Oct2023:22:53:49):  xmverilog ../../source/tail_light_control.v -compile 
+s201(05Oct2023:22:53:49):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s202(05Oct2023:22:54:09):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s203(05Oct2023:22:56:58):  xmverilog ../../source/tail_light_control.v -compile 
+s204(05Oct2023:22:56:59):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s205(05Oct2023:22:57:02):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s206(05Oct2023:22:59:53):  xmverilog ../../source/tail_light_control.v -compile 
+s207(05Oct2023:22:59:54):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s208(05Oct2023:22:59:58):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s209(05Oct2023:23:01:00):  xmverilog ../../source/tail_light_control.v -compile 
+s210(05Oct2023:23:01:01):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s211(05Oct2023:23:01:03):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s212(05Oct2023:23:10:27):  xmverilog ../../source/tail_light_control.v -compile 
+s213(05Oct2023:23:10:28):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s214(05Oct2023:23:10:33):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s215(05Oct2023:23:12:37):  xmverilog ../../source/tail_light_control.v -compile 
+s216(05Oct2023:23:12:38):  xmverilog ../testbench/tail_light_control_tb.v -compile 
+s217(05Oct2023:23:12:41):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s218(05Oct2023:23:25:11):  xmverilog ../testbench/tail_light_control_tb.v +access+r +gui 
+s219(28Oct2023:10:37:55):  xmverilog ../testbench/elevator_fsm_tb.v +access+r +gui 
+s220(28Oct2023:10:37:59):  xmverilog ../testbench/elevator_fsm2_tb.v +access+r +gui 

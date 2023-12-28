@@ -1,0 +1,8 @@
+xmverilog(64): 17.10-s001: (c) Copyright 1995-2017 Cadence Design Systems, Inc.
+TOOL:	xmverilog	17.10-s001: Started on Oct 28, 2023 at 10:37:59 EDT
+xmverilog
+	../testbench/elevator_fsm2_tb.v
+	+access+r
+	+gui
+xmverilog: *E,FILEMIS: Cannot find the provided file ../testbench/elevator_fsm2_tb.v.
+TOOL:	xmverilog	17.10-s001: Exiting on Oct 28, 2023 at 10:37:59 EDT  (total: 00:00:00)
